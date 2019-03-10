@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* ![wireframe 1] (https://github.com/laurajhaskell/liftoff-assignments/blob/master/P3-Project_Planning/wireframe1.png)
+* ![wireframe 2] (https://github.com/laurajhaskell/liftoff-assignments/blob/master/P3-Project_Planning/wireframe2.png)
+* 1[wireframe 3] (https://github.com/laurajhaskell/liftoff-assignments/blob/master/P3-Project_Planning/wireframe3.png)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+![Pivotal Tracker] (https://www.pivotaltracker.com/n/projects/2313375)
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+![bpm app] (https://github.com/laurajhaskell/bpm-app)
